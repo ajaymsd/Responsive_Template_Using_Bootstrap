@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.infos{
+    margin-left: 20%;
+   
+}
+.contentplat1{
+    line-height: 30px;
+    background-color:wheat;
+}
+.contentplat2{
+    line-height: 30px;
+    
+}
+.contentplat3{
+    line-height: 30px;
+    background-color:green;
+}
+.contentplat4{
+    line-height: 30px;
+    background-color:black;
+}
+.contentplat1 h4{
+    text-align: center;
+}
+.contentplat2 h4{
+    text-align: center;
+}
+.contentplat3 h4{
+    text-align: center;
+}
+.contentplat4 h4{
+    text-align: center;
+}
+.contentplat2,.contentplat2 p{
+    font-weight: lighter;
+}
+
